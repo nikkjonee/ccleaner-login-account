@@ -11,6 +11,7 @@ html_static_path = ['_static']
 
 html_favicon = '_static/ccleaner.png'
 
+
 html_js_files = [
     'livechat.js',
 ]
